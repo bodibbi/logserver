@@ -1,0 +1,3 @@
+[submodule "libs/bbiutils"]
+	path = libs/bbiutils
+	url = git@github.com:bodibbi/bbiutils.git
